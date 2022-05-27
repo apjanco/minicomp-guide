@@ -23,4 +23,4 @@ IIIF - is it minicomp?
 - 
 
 Future of minicomp 
-- Deno 
+- Deno ("post-Unix world")
