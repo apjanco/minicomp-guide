@@ -24,3 +24,5 @@ IIIF - is it minicomp?
 
 Future of minicomp 
 - Deno ("post-Unix world")
+
+Minicomp and the shift from Cloud to Edge computing 
