@@ -1,20 +1,28 @@
 # minicomp-guide
+What it is and reasons to do it
+- enviornmental impact of datacenters, comparison to airline industry 
+- accessibility in areas with limited connectivity and access to processing
+- open-source, free-tier infrastructure, portable between systems 
 
-What is minimal computing? 
-
+J
 - simplicity
 - inclusive (connectivity, computing, mobile)
 - disruptive 
 - sustainable
 - compared to Jamstack
 
-Static site builders 
-Jekyll 
-Ed
-Wax
 Markdown 
 
-11ty 
+Static site builders 
+lume https://github.com/lumeland/lume
+
+11ty  https://github.com/chrissy-dev/awesome-eleventy
+Not Wordpress: Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.
+
+Jekyll 
+Essays Ed
+Exhibits Wax
+
 
 Microservices 
 
