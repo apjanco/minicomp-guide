@@ -10,7 +10,7 @@ Minimal computing is a response to commercial systems that "make the web easy" a
 ## Key ideas 
 
 **Sustainability**  
-Content management systems like WordPress run on a server. Each and every time someone asks for information, it accesses a database, builds the webpage and sends it to the user. The server is on day and night waiting for requests. Running these computers all the time consumes singificant amounts energy; as much as 3% of total energy consumption.  Minimal computing approaches do not require a dedicated server. They favor shared resources and effifcent use of computation and connectivity.  Rather than building individual webpages when requsted, the entire site is built all at once and served to the web.  
+Content management systems like WordPress run on a server. Each and every time someone asks for information, the server accesses a database, builds the webpage and sends it to the user. To do that, the server has to be left on and running day and night waiting. Framed in positive terms, these servers are "reliable" and "always there for you," which justifies the cost of renting a server. These dedicated servers consume singificant amounts energy; as much as 3% of the world's total energy consumption.  Minimal computing approaches do not require a dedicated server. They favor shared resources and the effifcent use of computation and connectivity.  Rather than building individual webpages when requsted, the entire site is built all at once.  The website is just an HTML file that can be stored amongst other files and served to the web. The webisite's files can be placed on servers all over the world (a content distribution network or CDN) so that the page loads equally fast in New York, Phnom Penh or Lagos.       
 
 **Accessibility**
 **Community**
@@ -27,3 +27,6 @@ J
 - disruptive 
 - sustainable
 - compared to Jamstack
+
+Netlify 
+
