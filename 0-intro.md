@@ -9,8 +9,8 @@ Minimal computing is a response to commercial systems that "make the web easy" a
 
 ## Key ideas 
 
-**Sustainability** 
-Content management systems like WordPress run on a server. Each and every time someone asks for information, it accesses a database, builds the webpage and sends it to the user. The server is on day and night waiting for requests. Running these computers all the time consumes singificant amounts energy; as much as 3% of total energy consumption.  While providers like Amazon Web Services, Google Cloud and Microsoft Azure work to be efficient and offset their consumption, the carbon emissions needed to generate this much electricity is comparable to the airline industy.      
+**Sustainability**  
+Content management systems like WordPress run on a server. Each and every time someone asks for information, it accesses a database, builds the webpage and sends it to the user. The server is on day and night waiting for requests. Running these computers all the time consumes singificant amounts energy; as much as 3% of total energy consumption.  Minimal computing approaches do not require a dedicated server. They favor shared resources and effifcent use of computation and connectivity.  Rather than building individual webpages when requsted, the entire site is built all at once and served to the web.  
 
 **Accessibility**
 **Community**
