@@ -4,3 +4,4 @@
   export DENO_INSTALL="/root/.deno"  
   export PATH="$DENO_INSTALL/bin:$PATH"
   ```
+3. install lume `deno run -A https://deno.land/x/lume/install.ts`
