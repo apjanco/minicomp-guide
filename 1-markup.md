@@ -13,7 +13,7 @@ You can then:
 Finally, we want to publish our files to the web, so we enable GitHub Pages in our new repository.
 1. click on the Settings tab. 
 2. select the Pages menu
-3. In the source section, select `main` 
+3. In the source section, select `main` and `/(root)`
 4. click save. You should now see a message. For me, it shows `Your site is ready to be published at https://apjanco.github.io/sturdy-journey/`
 6. click on the link and you should see a blank page with the title of your repository. 
 
