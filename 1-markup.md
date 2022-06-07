@@ -19,6 +19,17 @@ Finally, we want to publish our files to the web, so we enable GitHub Pages in o
 
 Now let's add some content!  
 
+# Markdown 
+To change the content on the page we've created, edit the README.md file in your repository.  The `.md` suffix indicates that this file is markdown. Click on the pencil icon ("Edit this file") to open the file editor. You'll see `#` followed by the repository name.  This is markdown-speak for header, which is the largest text on the page.  You can make it smaller the changing it to `##` or `###`.  In the HTML-land, this equates to `<h1>`,`<h2>` and `<h3>`. For this initial introduction, we'll just make a basic personal page. 
+```markdown 
+
+## Andrew Janco
+- lives with two cats
+- person of the mountains
+- travels when able
+
+```
+
+
 # Markup 
  
-# Markdown 
