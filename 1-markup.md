@@ -29,7 +29,7 @@ To change the content on the page we've created, edit the README.md file in your
 - travels when able
 
 ```
-When done writing, click on the green "Commit changes" button. 
+When done writing, click on the green "Commit changes" button. In about 30 seconds, your new content will appear on the page (in my case https://apjanco.github.io/sturdy-journey/)
 
 # Markup 
  
