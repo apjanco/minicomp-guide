@@ -38,7 +38,13 @@ images: ![is cat](https://placekitten.com/g/200/300)
 **bold text**
 *italics*
 ```
-For more options, see the markdown cheatsheet here: https://www.markdownguide.org/cheat-sheet/
+For more options, see the markdown cheatsheet: https://www.markdownguide.org/cheat-sheet/
 
 # Markup 
+
+For text content, markdown is a great tool, but it doens't capture all of the capabilities of HTML. If you find that you want more control over the formatting, style and interactivity of your page, you can can always change the HTML itself.
+
+
+
+
  
