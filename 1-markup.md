@@ -20,7 +20,7 @@ Finally, we want to publish our files to the web, so we enable GitHub Pages in o
 Now let's add some content!  
 
 # Markdown 
-To change the content on the page we've created, edit the README.md file in your repository.  The `.md` suffix indicates that this file is markdown. Click on the pencil icon ("Edit this file") to open the file editor. You'll see `#` followed by the repository name.  This is markdown-speak for header, which is the largest text on the page.  You can make it smaller the changing it to `##` or `###`.  In the HTML-land, this equates to `<h1>`,`<h2>` and `<h3>`. For this initial introduction, we'll just make a basic personal page. 
+To change the content on the page we've created, edit the README.md file in your repository.  The `.md` suffix indicates that this file is markdown. Click on the pencil icon ("Edit this file") to open the file editor. You'll see `#` followed by the repository name.  This is markdown-speak for header, which is the largest text on the page.  You can make it smaller by changing it to `##` or `###`.  In the HTML-land, this equates to `<h1>`,`<h2>` and `<h3>`. For this initial introduction, we'll just make a basic personal page. 
 ```markdown 
 
 ## Andrew Janco
@@ -29,7 +29,16 @@ To change the content on the page we've created, edit the README.md file in your
 - travels when able
 
 ```
-When done writing, click on the green "Commit changes" button. In about 30 seconds, your new content will appear on the page (in my case https://apjanco.github.io/sturdy-journey/)
+When done writing, click on the green "Commit changes" button. In about 30 seconds, your new content will appear on the page (in my case https://apjanco.github.io/sturdy-journey/).  
+
+From here you can add anything you like:
+```markdown
+links: [Penn](https://www.upenn.edu)  
+images: ![is cat](https://placekitten.com/g/200/300)  
+**bold text**
+*italics*
+```
+For more options, see the markdown cheatsheet here: https://www.markdownguide.org/cheat-sheet/
 
 # Markup 
  
