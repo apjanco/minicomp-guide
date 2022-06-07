@@ -29,7 +29,7 @@ To change the content on the page we've created, edit the README.md file in your
 - travels when able
 
 ```
-
+When done writing, click on the green "Commit changes" button. 
 
 # Markup 
  
