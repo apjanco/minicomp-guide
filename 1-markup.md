@@ -42,7 +42,7 @@ For more options, see the markdown cheatsheet: https://www.markdownguide.org/che
 
 # Markup 
 
-For text content, markdown is a great tool, but it doens't capture all of the capabilities of HTML. If you find that you want more control over the formatting, style and interactivity of your page, you can can always change the HTML itself.  In addition to the opening and closing tags mentioned above, HTML can also have attributes.  For example, to give an element a name, you can add an `id` attribute: `<b id="firstName">Oleh</b>`
+For text content, markdown is a great tool, but it doens't capture all of the capabilities of HTML. If you find that you want more control over the formatting, style and interactivity of your page, you can can always change the HTML itself.  In addition to the opening and closing tags mentioned above, HTML can also have attributes.  For example, to give an element a name, you can add an `id` attribute: `<b id="firstName">Oleh</b>`. Note that the formatting is `attribute name` equals sign `=` then quotes `""`. Attributes are commonly used to apply CSS style rules with the `class` attribute: `<b id="firstName" class="title">Oleh</b>`. You can also trigger JavaScript events: `onclick="function()"`. There's a lot to learn and no one knows everything.  It's often good to start with a specific thing you'd like to change on your page and then learn how to change it. For more informaiton on HTML, Mozilla has excellent tutorials here: https://developer.mozilla.org/docs/Learn/HTML  
 
 
 
