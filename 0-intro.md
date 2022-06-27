@@ -8,6 +8,7 @@ Penn and many other academic institutions purchase a service that you can use to
 Minimal computing is a response to commercial systems that "make the web easy" by concealing the technologies being used and the social, political, and economic consequences of those technologies. It's not an argument that WordPress is "bad" or that you shouldn't use it. It's a way of making things on the web in an informed and deliberate manner. It's a gamble that once you know how the web works, you'll choose to make minimal sites because they are more sustainable, accessible, and personally enriching than other options.
 
 > Further reading:  
+> [*Minimal Computing* DHQ, Editors: Roopika Risam and Alex Gil](http://www.digitalhumanities.org/dhq/vol/16/2/index.html)
 > [__The User, the Learner and the Machines We Make__ by Alex Gil - 21 May 2015](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)  
 > [__Design for Diversity: The Case of Ed__ by Alex Gil](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)  
 
