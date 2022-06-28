@@ -5,3 +5,13 @@
   export PATH="$DENO_INSTALL/bin:$PATH"
   ```
 3. install lume `deno run -A https://deno.land/x/lume/install.ts`
+
+
+ALso share Fresh 
+
+Ideally, I need: 
+build-time rendering of html 
+no client-side imports (css, js)
+
+assets and application logic served from client runtime 
+on GET, user receives app, limited need for further requests 
